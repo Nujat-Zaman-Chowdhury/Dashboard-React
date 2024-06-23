@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-[Live-link](https://dashboard-nujat.netlify.app/)
+[Live-link](https://6677afff70b58f36c29eb31d--dashboard-nujat.netlify.app)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
